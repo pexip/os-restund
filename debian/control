@@ -1,7 +1,8 @@
 Source: restund
 Section: comm
 Priority: optional
-Maintainer: Alfred E. Heggestad <aeh@db.org>
+XBCS-Original-Maintainer: Alfred E. Heggestad <aeh@db.org>
+Maintainer: Pexip AS <packaging@pexip.com>
 Build-Depends: debhelper (>= 4.0.0)
 Standards-Version: 3.6.2
 
